@@ -25,6 +25,7 @@ I have created a multiple-line graph that shows the total weekly fares for each 
 # Summary
 
 Three business recommendations to the CEO for addressing any disparities among the city types
-- Drivers can be shuffled between urban cities can also be shifted to suburban and rural areas
+
+- Drivers can be shuffled between urban cities, suburban, and rural areas
 - Drivers can be offered some perks to work in the rural areas
 - Work twowards increasing profitability in urban cities
